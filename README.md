@@ -49,5 +49,3 @@ The goal is to empower decision-makers with **data-driven insights** to optimize
 - Supports **data-driven decision-making** for revenue growth and profitability.
 
 ---
-
-## 🚀 Project Structure
